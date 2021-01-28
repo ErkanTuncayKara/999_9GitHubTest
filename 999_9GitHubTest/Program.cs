@@ -10,6 +10,7 @@ namespace _999_9GitHubTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("*** Github ***");
         }
     }
 }
